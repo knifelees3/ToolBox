@@ -1,0 +1,140 @@
+{
+  "source": {
+    "type": "file",
+    "location": "C:\\Users\\xiail\\Downloads\\PDF\\PhysRevA.101.063816.pdf",
+    "filename": "PhysRevA.101.063816.pdf"
+  },
+  "metadata": {
+    "CrossmarkDomainExclusive": "false",
+    "CrossMarkDomains[1]": "journals.aps.org",
+    "Creator": "Published by the American Physical Society",
+    "CrossmarkMajorVersionDate": "2020-06-11",
+    "ModDate": "D:20200610155245+05'30'",
+    "doi": "10.1103/PhysRevA.101.063816",
+    "Keywords": "doi:10.1103/PhysRevA.101.063816 url:https://doi.org/10.1103/PhysRevA.101.063816",
+    "Producer": "Acrobat Distiller 10.1.16 (Windows)",
+    "CreationDate": "D:20200610155226+05'30'",
+    "Title": "Chiral excitation of a single atom by a quantized single-photon pulse in a guided mode of a nanofiber",
+    "Subject": "Phys. Rev. A 101, 063816 (2020). doi:10.1103/PhysRevA.101.063816",
+    "Author": "Fam Le Kien",
+    "http://www.niso.org/schemas/jav/1.0/": {
+      "journal_article_version": "VoR"
+    },
+    "dc": {
+      "format": "application/pdf",
+      "identifier": "doi:10.1103/PhysRevA.101.063816",
+      "publisher": [
+        "American Physical Society"
+      ],
+      "description": {
+        "x-default": "Phys. Rev. A 101, 063816 (2020). doi:10.1103/PhysRevA.101.063816"
+      },
+      "subject": [
+        "doi:10.1103/PhysRevA.101.063816 url:https://doi.org/10.1103/PhysRevA.101.063816"
+      ],
+      "title": {
+        "x-default": "Chiral excitation of a single atom by a quantized single-photon pulse in a guided mode of a nanofiber"
+      },
+      "creator": [
+        "Fam Le Kien",
+        "S\u00edle Nic Chormaic",
+        "Thomas Busch"
+      ]
+    },
+    "prism": {
+      "doi": "10.1103/PhysRevA.101.063816",
+      "url": "https://doi.org/10.1103/PhysRevA.101.063816",
+      "aggregationType": "journal",
+      "publicationName": "Physical Review A",
+      "copyright": "Published by the American Physical Society",
+      "issn": "0031-899X",
+      "volume": "101",
+      "number": "6",
+      "startingPage": "063816"
+    },
+    "http://crossref.org/crossmark/2.0/": {
+      "MajorVersionDate": "2020-06-11",
+      "CrossmarkDomainExclusive": "false",
+      "DOI": "10.1103/PhysRevA.101.063816",
+      "CrossMarkDomains": [
+        "journals.aps.org"
+      ]
+    },
+    "pdfx": {
+      "doi": "10.1103/PhysRevA.101.063816",
+      "CrossmarkMajorVersionDate": "2020-06-11",
+      "CrossmarkDomainExclusive": "false",
+      "CrossMarkDomains": [
+        "journals.aps.org"
+      ]
+    },
+    "xap": {
+      "CreateDate": "2020-06-10T15:52:26+05:30",
+      "CreatorTool": "Published by the American Physical Society",
+      "ModifyDate": "2020-06-10T15:52:45+05:30",
+      "MetadataDate": "2020-06-10T15:52:45+05:30"
+    },
+    "pdf": {
+      "Keywords": "doi:10.1103/PhysRevA.101.063816 url:https://doi.org/10.1103/PhysRevA.101.063816",
+      "Producer": "Acrobat Distiller 10.1.16 (Windows)"
+    },
+    "xapmm": {
+      "DocumentID": "uuid:9f63ae73-2115-4d92-a1c4-527e1c1809b8",
+      "InstanceID": "uuid:dfcffbf1-5878-4ac1-ac37-96dee893bf8c"
+    },
+    "Pages": 13
+  },
+  "references": {
+    "url": [
+      "https://doi.org/10.1103/PhysRevA.96.033817",
+      "https://doi.org/10.1038/35106500",
+      "https://doi.org/10.1134/S1054660X09170095",
+      "https://doi.org/10.1088/2040-8986/aac35e",
+      "https://doi.org/10.1088/1367-2630/13/10/103010",
+      "https://doi.org/10.1038/nphoton.2013.185",
+      "10.1103/PhysRevA.101.063816",
+      "https://doi.org/10.1103/PhysRevA.96.043859",
+      "https://doi.org/10.1209/0295-5075/86/14007",
+      "https://doi.org/10.1103/PhysRevA.65.033832",
+      "https://doi.org/10.1103/PhysRevA.86.023811",
+      "https://orcid.org/0000-0002-3463-6053",
+      "https://doi.org/10.1038/nphoton.2015.203",
+      "https://doi.org/10.1103/PhysRevLett.111.103001",
+      "https://doi.org/10.1103/PhysRevA.83.063842",
+      "https://doi.org/10.1103/PhysRevLett.113.133601",
+      "https://doi.org/10.1103/PhysRevA.72.032509",
+      "https://doi.org/10.1016/bs.aamop.2017.02.003",
+      "https://doi.org/10.1103/PhysRevLett.79.769",
+      "https://doi.org/10.1103/PhysRevA.90.023805",
+      "https://orcid.org/0000-0003-4276-2014",
+      "https://doi.org/10.1103/PhysRevLett.112.210501",
+      "https://doi.org/10.1038/nphys1096",
+      "https://doi.org/10.1103/PhysRevLett.78.3221",
+      "https://doi.org/10.1038/nphoton.2015.201",
+      "https://doi.org/10.1134/S1054660X07070055",
+      "https://doi.org/10.1126/science.1254699",
+      "https://doi.org/10.1088/2040-8978/18/5/053001",
+      "http://crossmark.crossref.org/dialog/?doi=10.1103/PhysRevA.101.063816&domain=pdf&date_stamp=2020-06-11",
+      "https://doi.org/10.1038/nature21037",
+      "https://doi.org/10.1126/science.aaa9519",
+      "https://doi.org/10.1103/PhysRevA.96.023835",
+      "https://doi.org/10.1103/PhysRevA.82.033804",
+      "https://orcid.org/0000-0003-0535-2833",
+      "https://doi.org/10.1088/1367-2630/15/12/123008",
+      "https://doi.org/10.1103/PhysRevA.101.063816",
+      "https://doi.org/10.1038/ncomms6713",
+      "https://doi.org/10.1103/PhysRevA.45.8204",
+      "https://doi.org/10.1007/s00340-007-2859-4",
+      "https://doi.org/10.1038/ncomms13716",
+      "https://doi.org/10.1103/PhysRevA.69.013812",
+      "https://doi.org/10.1126/science.1257671",
+      "https://doi.org/10.1103/PhysRevA.56.2213",
+      "https://doi.org/10.1103/PhysRevA.82.063812",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "https://doi.org/10.1038/nature02193",
+      "https://doi.org/10.1038/ncomms4300",
+      "https://doi.org/10.1103/PhysRevA.46.5199",
+      "https://doi.org/10.1103/PhysRevLett.109.263601"
+    ]
+  }
+}
