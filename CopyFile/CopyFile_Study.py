@@ -22,11 +22,11 @@ if __name__ == "__main__":
 
     # ______________________________________________________________
     # On personal pc
-    rootdir = r'C:\Users\xiail\Documents\Dropbox\Note\Notes-Collection'
+    rootdir = r'C:\Users\ZhaohuaTian\Documents\Dropbox\Note\Notes-Collection'
     # dstdir = r'C:
     #     Users\xiail\OneDrive\Blog\Blog_V1\source\_posts\'
     # test folder
-    dstdir = r'C:\Users\xiail\Desktop\TestBlog\Copy'
+    dstdir = r'C:\Users\ZhaohuaTian\Desktop\BlogTmp'
 
     # _______________________________________________________________
     # For windows in science building
