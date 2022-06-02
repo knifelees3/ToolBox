@@ -56,7 +56,7 @@ def gentex(filename, filelist):
             f.write('\\begin{frame}\n')
             f.write('\\begin{figure}\n')
             f.write('\\centering\n')
-            f.write('\\includegraphics[width=2.5in]{%s}\n' % filelist[l])
+            f.write('\\includegraphics[width=4in]{%s}\n' % filelist[l])
             f.write('\\end{figure}\n')
             f.write('\\end{frame}\n')
         f.write('\\end{document}\n')
@@ -67,22 +67,7 @@ def gentex(filename, filelist):
 if __name__ == "__main__":
 
     # ______________________________________________________________
-    # On personal pc
-    rootdir = r'C:\Users\xiail\Documents\Dropbox\Note\VNote'
-    # dstdir = r'C:
-    #     Users\xiail\OneDrive\Blog\Blog_V1\source\_posts\'
-    # test folder
-    dstdir = r'C:\Users\xiail\Desktop\量子计算'
-
+    dstdir = r'C:\Users\ZhaohuaTian\Desktop\pic'
     pnglist = np.ravel(list_files(dstdir))
     # rename_png(pnglist)
     gentex("./test2.tex", pnglist)
-    try:
-        copy2('./test2.tex', dstdir)
-    except Exception as e:
-        print(e)
-        print('copy file fail\r\n')
-    else:
-        print('copy file success\r\n')
-
-    print('END')
