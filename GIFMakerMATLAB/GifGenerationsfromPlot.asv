@@ -1,0 +1,25 @@
+% To generate a gif files from plot
+
+numx=100;
+numt=20;
+x=linspace(0,6*pi,numx);
+t=linspace(0,10,numt);
+
+
+
+% Directly export gif figures needed
+img_series=cell(numt,1);
+
+% Plot for different time
+for l=1:numt
+
+
+    fig=figure();
+    plot()
+    drawnow;
+    frame = getframe(fig);
+    img_series{l,1} = frame2im(frame);
+    close(fig);
+
+end
+a=sin
