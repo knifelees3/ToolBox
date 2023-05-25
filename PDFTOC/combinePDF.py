@@ -1,13 +1,12 @@
 # 在此更改文件夹以及文件名
-dir='C:/Users/Lenovo/Documents/Dropbox/ProjectPostdoc/02_PulseShapingCavityStucture/Notes'
-fileName = '20230522_基于超表面的光子波包波形整形'
+dir='C:/Users/Lenovo/Documents/Dropbox/ProjectPostdoc/02_PulseShapingCavityStucture/Notes/'
+fileName = '20230521_基于超表面的光子波包波形整形'
 dele=1 # 0代表删除，1代表不删除
 
 from PyPDF2 import PdfReader, PdfWriter
 import os
 import sys
 
-genToc(dir,fielName,dele)
 
 def genToc(dir,fielName,dele):
 
@@ -72,3 +71,8 @@ def genToc(dir,fielName,dele):
         os.remove(filepdf)
         os.remove(filepdfTOC)
         os.remove(filetxt)
+    
+    return 0
+
+
+genToc(dir,fileName,dele)
