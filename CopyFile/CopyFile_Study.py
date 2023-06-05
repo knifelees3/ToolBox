@@ -26,7 +26,8 @@ if __name__ == "__main__":
     # dstdir = r'C:
     #     Users\xiail\OneDrive\Blog\Blog_V1\source\_posts\'
     # test folder
-    dstdir = r'C:\Users\ZhaohuaTian\Desktop\BlogTmp'
+    # dstdir = r'C:\Users\ZhaohuaTian\Desktop\BlogTmp'
+    dstdir = r'D:\Blog\GithubBlog\source\\_posts'
 
     # _______________________________________________________________
     # For windows in science building

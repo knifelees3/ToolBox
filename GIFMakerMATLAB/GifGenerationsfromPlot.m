@@ -5,8 +5,6 @@ numt=20;
 x=linspace(0,6*pi,numx);
 t=linspace(0,10,numt);
 
-
-
 %% 1. Directly export gif figures needed
 %--------------------------------------------------------------
 img_series=cell(numt,1);
